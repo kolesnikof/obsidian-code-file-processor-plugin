@@ -1,0 +1,10 @@
+{
+	"id": "code-file-processor",
+	"name": "Code File Embed Processor",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "Converts source code files to markdown to make them available for embedding",
+	"author": "Sergey Kolesnikov",
+	"authorUrl": "https://github.com/kolesnikof/obsidian-code-file-processor-plugin",
+	"isDesktopOnly": false
+}
