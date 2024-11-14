@@ -35,4 +35,4 @@ If you have any questions or suggestions, please create an issue on [GitHub page
 
 ## License
 
-This project is distributed under the MIT license. Details can be found in the [LICENSE](LICENSE.txt) file.
+This project is distributed under the MIT license. Details can be found in the [LICENSE](LICENSE) file.
